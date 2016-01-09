@@ -1,7 +1,7 @@
 name: Econsult
 favicon: null
-layout_spectrum: 0.24427
-typography_spectrum: 0.5
+layout_spectrum: 0.9576
+typography_spectrum: 0.4315
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#dfc4af'
-    - '#040500'
-    - '#695652'
-    - '#2c7fa9'
-    - '#831400'
+    - '#0c0c0e'
+    - '#4e4e4e'
+    - '#cda58c'
+    - '#f7dccb'
+    - '#58131b'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.1875
-  rhythmicContrast: 0.7799331096466631
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
