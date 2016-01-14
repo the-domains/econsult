@@ -1,6 +1,6 @@
 name: Econsult
 favicon: null
-layout_spectrum: 0.9576
+layout_spectrum: 0.00286
 typography_spectrum: 0.4315
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#58131b'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 1
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
