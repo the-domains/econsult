@@ -4,11 +4,18 @@
         <description><![CDATA[Econsult]]></description>
         <link>https://thegrid.ai/econsult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 19:01:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 19:01:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/econsult/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Valencia]]></title>
+            <description><![CDATA[<article><h1>Valencia</h1><p>The advantage of making your own orange juice.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22be8d27a3344a769a6430940515b77234471b27.jpg"></article>]]></description>
+            <link>https://thegrid.ai/econsult/valencia/index.html</link>
+            <guid isPermaLink="false">aeaa560b-9edf-46f2-b799-72edddea32c4</guid>
+            <pubDate>Sat, 27 Feb 2016 19:01:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tree sample]]></title>
-            <description><![CDATA[<article><h1>Tree sample</h1><p>Rivers and streams are freed from ice  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08cbd5717f9e258e2b8cc529c2be38547cf75e4b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Tree sample</h1><p>Rivers and streams are freed from ice  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa248b586dd21b14de302d4c3cb68e1a5d2a2931.jpg"></article>]]></description>
             <link>https://thegrid.ai/econsult/tree-sample/index.html</link>
             <guid isPermaLink="false">1f7c3a19-9bdd-46e1-93be-4b8d91d75822</guid>
             <pubDate>Sat, 27 Feb 2016 19:00:44 GMT</pubDate>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/econsult/pascal/index.html</link>
             <guid isPermaLink="false">9d7c9532-7191-4831-863c-7a8400e9b5aa</guid>
             <pubDate>Thu, 14 Jan 2016 09:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Valencia]]></title>
-            <description><![CDATA[<article><h1>Valencia</h1><p>The advantage of making your own orange juice.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed37cf521e7038a3fc4ded9e009f6f2411ed0954.jpg"></article>]]></description>
-            <link>https://thegrid.ai/econsult/valencia/index.html</link>
-            <guid isPermaLink="false">aeaa560b-9edf-46f2-b799-72edddea32c4</guid>
-            <pubDate>Fri, 08 Jan 2016 14:26:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
